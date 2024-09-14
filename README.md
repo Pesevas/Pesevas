@@ -19,6 +19,7 @@
 - Power BI
 - Python
 - Google Sheets
+- Excel
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Estadísticas de Github</b>
 
